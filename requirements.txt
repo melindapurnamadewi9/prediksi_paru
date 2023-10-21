@@ -1,7 +1,4 @@
-pip
 numpy
 pandas
 scikit_learn
 streamlit==1.27.2
-sklearn
-matplotlib==3.7.1
